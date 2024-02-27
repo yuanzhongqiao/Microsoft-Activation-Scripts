@@ -1,58 +1,67 @@
-<p align="center"><img src="https://massgrave.dev/images/logo_small.png" alt="MAS Logo"></p>
-
-<h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
-
-<p align="center">A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.</p>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7374fee1d458a89566ded63be24cdd83cc545c81d65424063ed3b67d77f7b4ce/68747470733a2f2f6d61737367726176652e6465762f696d616765732f6c6f676f5f736d616c6c2e706e67"><img src="https://camo.githubusercontent.com/7374fee1d458a89566ded63be24cdd83cc545c81d65424063ed3b67d77f7b4ce/68747470733a2f2f6d61737367726176652e6465762f696d616765732f6c6f676f5f736d616c6c2e706e67" alt="马航标志" data-canonical-src="https://massgrave.dev/images/logo_small.png" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h1 align="center" tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Microsoft 激活脚本 (MAS)</font></font></h1><a id="user-content-microsoft--activation--scripts-mas" class="anchor-element" aria-label="永久链接：Microsoft 激活脚本 (MAS)" href="#microsoft--activation--scripts-mas"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 HWID / Ohook / KMS38 / Online KMS 激活方法的 Windows 和 Office 激活器，重点是开源代码和较少的防病毒检测。</font></font></p>
 <hr>
-
-## Download / How to use it?
-
-### Method 1 - PowerShell (Recommended)
-
--   Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
--   Copy-paste the below code and press enter
-    ```
-    irm https://massgrave.dev/get | iex
-    ```
--   You will see the activation options. Follow the on-screen instructions.
--   That's all.
-
-### Method 2 - Traditional
-
--   Download the file from [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip) or [Bitbucket](https://bitbucket.org/WindowsAddict/microsoft-activation-scripts/get/master.zip)
--   Right-click on the downloaded zip file and extract
--   In the extracted folder, find the folder named `All-In-One-Version`
--   Run the file named `MAS_AIO.cmd`
--   You will see the activation options. Follow the on-screen instructions.
--   That's all.
-
-To run the scripts in unattended mode, check [here](https://massgrave.dev/command_line_switches.html)
-
-</br>
-
-```
-Latest Version: 2.5
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载/如何使用？</font></font></h2><a id="user-content-download--how-to-use-it" class="anchor-element" aria-label="永久链接：下载/如何使用它？" href="#download--how-to-use-it"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">方法 1 - PowerShell（推荐）</font></font></h3><a id="user-content-method-1---powershell-recommended" class="anchor-element" aria-label="永久链接：方法 1 - PowerShell（推荐）" href="#method-1---powershell-recommended"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">右键单击 Windows 开始菜单，然后选择 PowerShell 或终端（不是 CMD）。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">复制粘贴以下代码并按 Enter
+</font></font><div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>irm https://massgrave.dev/get | iex
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="irm https://massgrave.dev/get | iex" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您将看到激活选项。</font><font style="vertical-align: inherit;">按照屏幕上的说明进行操作。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">就这样。</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">方法 2 - 传统</font></font></h3><a id="user-content-method-2---traditional" class="anchor-element" aria-label="永久链接：方法 2 - 传统" href="#method-2---traditional"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"></font><a href="https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从GitHub</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或</font><a href="https://bitbucket.org/WindowsAddict/microsoft-activation-scripts/get/master.zip" rel="nofollow"><font style="vertical-align: inherit;">Bitbucket</font></a><font style="vertical-align: inherit;">下载文件</font></font><a href="https://bitbucket.org/WindowsAddict/microsoft-activation-scripts/get/master.zip" rel="nofollow"><font style="vertical-align: inherit;"></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">右键单击下载的 zip 文件并解压</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在解压后的文件夹中，找到名为的文件夹</font></font><code>All-In-One-Version</code></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行名为</font></font><code>MAS_AIO.cmd</code></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您将看到激活选项。</font><font style="vertical-align: inherit;">按照屏幕上的说明进行操作。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">就这样。</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要在无人值守模式下运行脚本，请检查</font></font><a href="https://massgrave.dev/command_line_switches.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">此处</font></font></a></p>
+<br>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>Latest Version: 2.5
 Release date: 16-Nov-2023
-```
-
-### [Troubleshooting / Help](https://massgrave.dev/troubleshoot.html)
-### [Download Original Windows & Office](https://massgrave.dev/genuine-installation-media.html)
-### Homepage - [https://massgrave.dev/](https://massgrave.dev/)
-</br>
-
-<a href="https://discord.gg/gjJEfq7ux8">
-  <img src="https://massgrave.dev/images/logo_discord.png" alt="Chat with us without signup" />
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="Latest Version: 2.5
+Release date: 16-Nov-2023" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><a href="https://massgrave.dev/troubleshoot.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">故障排除/帮助</font></font></a></h3><a id="user-content-troubleshooting--help" class="anchor-element" aria-label="永久链接：故障排除/帮助" href="#troubleshooting--help"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><a href="https://massgrave.dev/genuine-installation-media.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载原版 Windows 和 Office</font></font></a></h3><a id="user-content-download-original-windows--office" class="anchor-element" aria-label="永久链接：下载原始 Windows 和 Office" href="#download-original-windows--office"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">主页 - </font></font><a href="https://massgrave.dev/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://massgrave.dev/</font></font></a></h3><a id="user-content-homepage---httpsmassgravedev" class="anchor-element" aria-label="永久链接：主页 - https://massgrave.dev/" href="#homepage---httpsmassgravedev"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<br>
+<a href="https://discord.gg/gjJEfq7ux8" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/1d04638db0c2a0699bd58659a5f7cf475215e85086ec63cb9c21861d0df8a50b/68747470733a2f2f6d61737367726176652e6465762f696d616765732f6c6f676f5f646973636f72642e706e67" alt="无需注册即可与我们聊天" data-canonical-src="https://massgrave.dev/images/logo_discord.png" style="max-width: 100%;">
 </a>
-<a href="https://t.me/Microsoft_Activation_Scripts">
-  <img src="https://massgrave.dev/images/logo_telegram.png" alt="Chat with us" />
+<a href="https://t.me/Microsoft_Activation_Scripts" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/80619405643b010dea297a23537d14382f52a5b0b2637a3d520ffcdd3876a200/68747470733a2f2f6d61737367726176652e6465762f696d616765732f6c6f676f5f74656c656772616d2e706e67" alt="与我们聊天" data-canonical-src="https://massgrave.dev/images/logo_telegram.png" style="max-width: 100%;">
 </a>
-<a href="https://twitter.com/massgravel">
-  <img src="https://massgrave.dev/images/logo_x.png" alt="Follow on 𝕏/Twitter" />
+<a href="https://twitter.com/massgravel" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/070ddd56f5544beda18e9fa2ac3789419fde15966e66fa8690312c876a50c1e1/68747470733a2f2f6d61737367726176652e6465762f696d616765732f6c6f676f5f782e706e67" alt="在 𝕏/Twitter 上关注" data-canonical-src="https://massgrave.dev/images/logo_x.png" style="max-width: 100%;">
 </a>
-<a href="https://www.reddit.com/r/MAS_Activator">
-  <img src="https://massgrave.dev/images/logo_reddit.png" alt="Reddit" />
+<a href="https://www.reddit.com/r/MAS_Activator" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/88e97e2bfe4e25ea433da970c866ac0d66a4869e3911f8526bf008640823f76f/68747470733a2f2f6d61737367726176652e6465762f696d616765732f6c6f676f5f7265646469742e706e67" alt="红迪网" data-canonical-src="https://massgrave.dev/images/logo_reddit.png" style="max-width: 100%;">
 </a>
-
----
-
-<p align="center">Made with Love ❤️</p>
+<hr>
+<p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用爱制作❤️</font></font></p>
+</article></div>
